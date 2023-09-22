@@ -2,4 +2,6 @@
 repositório inicial
 primeiro readme
 
-lembrei do comando: git commit ok
+
+lembrei do comando: git commit 
+lembrei do comando: git status
